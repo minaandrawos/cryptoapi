@@ -5,6 +5,14 @@ An HTTP server that provides crypto coin ticker information written in Scala and
 ```
 /<exchange name>/<ticker>/<operation: open,low,high,ticker,ask,volume>
 ```
+### Default server address:
+```
+http://<host>:8888
+```
+### Default Admin address:
+```
+http://<host>:9990
+```
 
 ### Examples:
 #### Example1
