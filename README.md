@@ -1,5 +1,5 @@
 # CryptoApi
-An HTTP server that provides crypto coin ticker information from several exchanges. The service is written in Scala and Finatra
+An HTTP server that provides cryptocoin trading information from several exchanges. The service is written in Scala and Finatra
 
 ### API:
 ```
