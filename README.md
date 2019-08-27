@@ -1,10 +1,16 @@
 # cryptoapi
-An HTTP server that provides crypto coin ticker information written in Scala and Finatra
+An HTTP server that provides crypto coin ticker information from several exchanges. The service is written in Scala and Finatra
 
 ### API:
 ```
 /<exchange name>/<ticker>/<operation: open,low,high,ticker,ask,volume>
 ```
+
+### Currently supported exchanges:
+- Binance
+- Kraken
+- Coinbase
+
 ### Default server address:
 ```
 http://<host>:8888
