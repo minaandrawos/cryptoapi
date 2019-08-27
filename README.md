@@ -1,5 +1,5 @@
 # CryptoApi
-An HTTP server that provides cryptocoin trading information from several exchanges. The service is written in Scala and Finatra
+An HTTP server that provides cryptocoin trading information from several exchanges. The service is written in Scala and Finatra. The service makes use of the powerful XChange (https://github.com/knowm/XChange) java library.
 
 ### API:
 ```
