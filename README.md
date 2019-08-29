@@ -37,7 +37,7 @@ Request:
 ```
 Response:
 ```
-{"currency_pair":"ETH/BTC","open":0.018170,"last":0.018210,"bid":0.018220,"ask":0.018230,"high":0.018440,"low":0.018080,"vwap":0.017717,"volume":5042.37174799,"quote_volume":91.82158953089790}
+{"currency_pair":"XRP/BTC","open":0.00002630,"last":0.00002639,"bid":0.00002639,"ask":0.00002641,"high":0.00002653,"low":0.00002513,"vwap":0.00002605,"volume":52012380.00000000,"quote_volume":1354.93283077,"bid_size":3062.00000000,"ask_size":2238.00000000}
 ```
 
 
