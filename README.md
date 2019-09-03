@@ -10,6 +10,10 @@ An HTTP server that provides cryptocoin trading information from several exchang
 - Binance
 - Kraken
 - Coinbase
+- Bitstamp
+- Bitfinex
+- Bittrex
+- Poloniex
 
 ### Default server address:
 ```
