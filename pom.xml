@@ -78,6 +78,54 @@
             <artifactId>finatra-http_2.12</artifactId>
             <version>19.8.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.twitter</groupId>
+            <artifactId>finatra-http_2.12</artifactId>
+            <scope>test</scope>
+            <type>test-jar</type>
+            <version>19.8.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.twitter</groupId>
+            <artifactId>inject-core_2.12</artifactId>
+            <scope>test</scope>
+            <type>test-jar</type>
+            <version>19.8.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.twitter</groupId>
+            <artifactId>inject-modules_2.12</artifactId>
+            <scope>test</scope>
+            <type>test-jar</type>
+            <version>19.8.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.twitter</groupId>
+            <artifactId>inject-app_2.12</artifactId>
+            <scope>test</scope>
+            <type>test-jar</type>
+            <version>19.8.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.twitter</groupId>
+            <artifactId>inject-server_2.12</artifactId>
+            <scope>test</scope>
+            <type>test-jar</type>
+            <version>19.8.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.scalatest</groupId>
+            <artifactId>scalatest_2.12</artifactId>
+            <version>3.0.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <version>1.10.19</version>
+            <scope>test</scope>
+        </dependency>
+
     </dependencies>
     <build>
         <plugins>
